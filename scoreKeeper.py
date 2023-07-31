@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-NUMBER_OF_STATES = 36
+NUMBER_OF_STATES = 37
 FONT = ('Impact', 30, 'normal')
 
 
